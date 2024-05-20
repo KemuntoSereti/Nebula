@@ -1,35 +1,15 @@
-# Nebula
-
-These instructions will help students to clone and host the React app on their GitHub Pages.
-
-### Prerequisites
-
-- GitHub account
-
-### Installation
-
-1. **Clone the Repository:**
-
-   ```bash
-   git clone https://github.com/lawrencemuema/Nebula.git
-   cd Nebula
-
-   git checkout -b gh-pages
-
-   git add .
-   git commit -m "Add build files for GitHub Pages"
-   git push origin gh-pages
-   ```
-
-2. **Using Github webpage:**
-
-   ```bash
-   Go to your GitHub repository.
-   Navigate to "Settings" > "Pages" in the sidebar.
-   Select the "gh-pages" branch and the "root" directory.
-   ```
+Followed instructions, and was able to open the React App. 
+Used the following references to perform tasks to get the 
+App to work.
 
 
-After a few minutes, your React app will be available at https://your-username.github.io/your-repo/.
+https://medium.com/@sandyjtech/building-a-full-stack-app-with-flask-react-mysql-a78fcc235ff0
 
-*If you face any redirection issues please reload the homepage: [yourgh-pages/Nebula](https://your-username.github.io/your-repo/.)https://your-username.github.io/your-repo/.
+https://planetscale.com/learn/courses/mysql-for-python-developers/building-a-flask-app-with-mysql/hotel-management-app-project-overview?autoplay=1
+
+How to connect AWS RDS with MYSQL Workbench;  https://www.youtube.com/watch?v=W98sn6oMtYw
+AWS RDS MySQL with Python: A Step-by-Step Tutorial | Code; https://www.youtube.com/watch?v=OllLAQvhAwA&t=312s
+
+How to create new Database and Table in MySQL WorkBench;https://www.youtube.com/watch?v=wALCw0F8e9M
+
+
